@@ -17,8 +17,6 @@ HELP = """Change your sound sink from command line.
 usage :
 
 sound_sink DEVICE
-
-where DEVICE in ["corsair", "analog"]
 """
 
 
